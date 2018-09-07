@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_error">Something went Wrong</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="location_updated_message">Location Updated</string>
+    <string name="weather_title">Weather</string>
+    <string name="settins">Settings</string>
+    <string name="celsius">celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="current_weather_title">Today\'s Weather</string>
+</resources>
